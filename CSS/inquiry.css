@@ -73,10 +73,16 @@ p {
   word-break: auto-phrase;
 }
 #inquiry .inquiry .inquiry_set .inquiry4 span {
-  font-size: 5rem;
+  font-size: 4.5rem;
   color: red;
   font-weight: bold;
   margin: 0 10px;
+}
+#inquiry .inquiry .inquiry_set .inquiry5,
+#inquiry .inquiry .inquiry_set .inquiry6 {
+  font-size: 2rem;
+  color: blue;
+  font-weight: bold;
 }
 #inquiry .inquiry .inquiry_set2 {
   width: 60%;
