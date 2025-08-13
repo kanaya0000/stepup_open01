@@ -33,11 +33,12 @@ p {
 }
 #question .question ul {
   font-size: 1rem;
+  width: 500px;
+  margin: 20px auto;
 }
 #question .question ul li {
-  height: 50px;
-  border: 1px solid gray;
-  margin-bottom: 20px;
+  height: 35px;
+  margin-bottom: 10px;
   display: flex;
   align-items: center;
 }
@@ -93,8 +94,24 @@ p {
   main #question .question {
     font-size: 1.2rem;
   }
+  main #question .question ul {
+    width: 100%;
+  }
   main #question .question ul li svg {
-    height: 20px;
-    width: 20px;
+    height: 35px;
+    width: 35px;
+  }
+  main #question .question .question2 {
+    margin-top: 50px;
+    font-size: 1.1rem;
+  }
+  main #question .question .question3 {
+    font-size: 1.2rem;
+  }
+  main #question .question .question4 {
+    font-size: 0.9rem;
+  }
+  main #question .question .question5 {
+    font-weight: bold;
   }
 }/*# sourceMappingURL=question.css.map */

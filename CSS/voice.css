@@ -50,6 +50,8 @@ main #voice .voice .voice_list .voice_set {
 main #voice .voice .voice_list .voice_set img {
   width: 300px;
   height: 200px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 main #voice .voice .voice_list .voice_set .voice_sub {
   width: calc(100% - 300px);
