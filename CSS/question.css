@@ -25,6 +25,9 @@ p {
   margin: 0;
 }
 
+#question {
+  padding-top: 0;
+}
 #question .question {
   max-width: 1000px;
   margin: 0 auto;
